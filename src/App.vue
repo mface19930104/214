@@ -10,7 +10,7 @@
 </van-swipe> -->
 <!-- <button @click="getl">达到</button> -->
 <transition> <router-view/></transition>
-
+<!-- dsadad -->
 <van-tabbar v-model="active" fixed>
   <van-tabbar-item icon="home-o" to="/" >首页</van-tabbar-item>
   <van-tabbar-item icon="user-circle-o" to="/member">会员</van-tabbar-item>
